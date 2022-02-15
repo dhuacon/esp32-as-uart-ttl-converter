@@ -1,5 +1,5 @@
 # esp32-as-uart-ttl-converter
-esp32 as uart ttl converter with micropython. 
+simple uart ttl converter for esp32 with micropython. 
 Use TX2 and RX2 pin(it worked for me).
 |    | UART0 | UART1 | UART2 |
 |----|-------|-------|-------|

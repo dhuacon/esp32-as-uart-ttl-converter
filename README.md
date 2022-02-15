@@ -5,7 +5,6 @@ Use TX2 and RX2 pin(it worked for me).
 |----|-------|-------|-------|
 | tx | 1     | 10    | 17    |
 | rx | 3     | 9     | 16    |
-|    |       |       |       |
 
 
 ![image](https://user-images.githubusercontent.com/21161299/154164637-a10ae295-9607-48f3-b5e5-a19115052e09.png)

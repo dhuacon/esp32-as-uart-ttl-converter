@@ -8,7 +8,7 @@ while True:
 	d = input("write: ")
 	if d != '':
 		uart.write(f'{d}\r\n')
-	time.sleep(4)
+	time.sleep(3)
 	str(uart.read().decode()).replace("\r\n", " ").replace('\x1b',' ').replace('[1;34m', '').replace('[1;36m', '').replace('[0m', '').replace('[0;0m','').replace('[1;32m', '').replace(d, '')
 	
 
